@@ -1,4 +1,7 @@
 package com.example.questionnaire.ui.view
 
-class QuestionsFragment {
+import androidx.fragment.app.Fragment
+
+open class QuestionsFragment : Fragment() {
+
 }

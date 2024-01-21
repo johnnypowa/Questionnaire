@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Questionnaire</string>
+
+    <string name="menu_bottom_nav_question">Kérdések</string>
+    <string name="menu_bottom_nav_result">Eredmények</string>
+
 </resources>
